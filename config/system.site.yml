@@ -1,0 +1,14 @@
+uuid: 24b61ab4-ef16-4c1f-a2d6-61e787a57691
+name: ari-core-326
+mail: ari@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
